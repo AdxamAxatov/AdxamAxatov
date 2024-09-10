@@ -1,7 +1,7 @@
 # About me
 <p><h2>👋🏻Hey! I'm Axatov Adxam. I'm Backend developer.</h2></p>
 
-- Telegram:                           [axatovadxam]([https://t.me/axatovadxam]
+- Telegram:                           [axatovadxam](https://t.me/axatovadxam)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
