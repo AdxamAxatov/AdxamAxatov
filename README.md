@@ -1,5 +1,5 @@
 # About me
-<p><h2>👋🏻Hey! I'm Axatov Adxam. I'm Backend developer.</h2></p>
+<p><h2>👋🏻Hey! I'm Adxam Axatov I'm Backend developer.</h2></p>
 
 - Telegram:                           [axatovadxam](https://t.me/axatovadxam)
 ## Main tools
